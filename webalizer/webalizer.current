@@ -1,0 +1,727 @@
+# Webalizer V2.20-01 Incremental Data - 09/07/2016 21:02:44
+2016 9 7 21 2 44
+390 243 129 13 9 52 1838518 148 128 0
+26 1 37 1 7
+73 44 396011 29 19 17
+33 20 117457 23 20 15
+46 29 87556 30 23 21
+38 21 57752 22 23 20
+45 27 100480 27 21 20
+36 21 56416 24 21 20
+119 81 1022846 26 21 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 6 20851 6
+8 5 5625 5
+4 2 3061 2
+47 31 356991 10
+8 6 7195 6
+22 9 21033 13
+6 2 4478 1
+29 19 214250 7
+18 15 94283 5
+50 34 424842 11
+30 22 115371 14
+8 4 4478 4
+9 4 74703 4
+11 6 11176 7
+23 17 192923 4
+16 11 55194 7
+10 6 12323 6
+5 2 5625 2
+10 7 45661 4
+7 5 18950 5
+16 10 87602 9
+11 8 29981 4
+14 10 26297 9
+5 2 5625 3
+0
+0
+0
+243
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+141
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+# -urls- 
+/
+0 132 0 292881 122 39
+/js/main.js
+0 10 0 22740 0 0
+/img/input-bg.png
+0 6 0 8232 0 0
+/js/jquery.countdown.min.js
+0 10 0 139910 0 0
+/img/avg_logo_216x84.png
+0 7 0 109053 0 0
+/css/style.css
+0 13 0 125944 0 0
+/css/reset.css
+0 15 0 6345 0 0
+/js/jquery.validate.min.js
+0 10 0 216010 0 0
+/img/notifyme-green.png
+0 6 0 109434 0 0
+/img/mgl-logo.png
+0 8 0 528136 0 0
+/js/html5.js
+0 14 0 5236 0 0
+/img/circle-green.png
+0 6 0 172644 0 0
+/img/stay-informed.png
+0 6 0 30204 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-146.crawl.baidu.com
+0 1 1 9688 0 0
+-
+baiduspider-180-76-15-153.crawl.baidu.com
+0 1 1 2067 1 1473101052
+/
+64.95.102.36
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-157.crawl.baidu.com
+0 1 0 497 0 0
+-
+crawl-66-249-64-213.googlebot.com
+0 4 4 47347 1 1472811631
+/
+baiduspider-180-76-15-160.crawl.baidu.com
+0 2 2 16265 0 0
+-
+static.227.10.9.176.clients.your-server.de
+0 2 1 2564 1 1473045758
+/
+66.79.174.27
+0 2 0 994 2 1473102594
+-
+msnbot-40-77-167-12.search.msn.com
+0 1 1 2067 1 1473157619
+/
+46.165.197.142
+0 2 1 2564 1 1472935932
+/
+tor-limits-scanning.cl.cam.ac.uk
+0 3 3 4134 3 1473061139
+/
+unnum-78-27-140-4.domashka.kiev.ua
+0 1 1 2067 1 1472920479
+/
+ns311741.ip-188-165-206.eu
+0 1 1 2067 1 1472907914
+/
+researchscan287.eecs.umich.edu
+0 1 1 2067 1 1473036015
+/
+172.56.13.20
+0 10 0 4970 0 0
+-
+172.56.12.185
+0 35 26 385056 1 1473241460
+/
+cablelink-189-218-69-70.hosts.intercable.net
+0 2 0 994 1 1473253383
+-
+107-175-239-205-host.colocrossing.com
+0 3 2 4631 1 1473209683
+/
+researchscan335.eecs.umich.edu
+0 1 0 226 1 1473012893
+-
+crawl-66-249-64-217.googlebot.com
+0 4 2 3435 1 1472726949
+/
+researchscan304.eecs.umich.edu
+0 1 1 2067 1 1473176884
+/
+li1194-64.members.linode.com
+0 3 3 0 3 1472978462
+/
+216.244.66.243
+0 4 2 5128 1 1473105777
+/
+185.130.6.49
+0 6 0 2982 1 1472881693
+-
+spider-100-43-90-13.yandex.com
+0 2 1 66514 0 0
+-
+gold-ausgang.ru
+0 1 1 2067 1 1472849880
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 15861 1 1473241153
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 374 0 0
+-
+baiduspider-180-76-15-156.crawl.baidu.com
+0 1 1 423 0 0
+-
+cablelink-189-218-41-163.hosts.intercable.net
+0 4 1 3558 1 1472966264
+/
+62.212.73.49
+0 1 1 2067 1 1473013650
+/
+114.37.198-84.dc74.net
+0 1 1 2067 1 1473106178
+/
+msnbot-207-46-13-167.search.msn.com
+0 1 1 2067 1 1473243217
+/
+54.f4.36a9.ip4.static.sl-reverse.com
+0 1 1 2067 1 1472745532
+/
+spider-100-43-91-20.yandex.com
+0 1 1 2067 1 1472786619
+/
+mj12bot.com
+0 4 2 5128 2 1472864810
+/
+baiduspider-180-76-15-23.crawl.baidu.com
+0 1 0 497 0 0
+-
+crawl-66-249-75-146.googlebot.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 21601 0 0
+-
+static.189.70.9.176.clients.your-server.de
+0 1 1 2067 1 1472704392
+/
+202.46.57.199
+0 1 1 13991 0 0
+-
+120.132.50.135
+0 1 1 2067 1 1473015317
+/
+hosted-by.leaseweb.com
+0 2 1 2564 1 1472860883
+/
+malta1844.startdedicated.de
+0 2 1 16076 0 0
+-
+crawl-66-249-75-150.googlebot.com
+0 3 3 12178 1 1473153524
+/
+c-24-7-34-188.hsd1.ca.comcast.net
+0 18 13 187918 1 1473219610
+/
+border.census.shodan.io
+0 3 1 3061 1 1473183242
+/
+msnbot-157-55-39-27.search.msn.com
+0 2 1 2564 1 1473279891
+/
+202.46.48.95
+0 1 1 374 0 0
+-
+crawl-66-249-66-32.googlebot.com
+0 1 1 2067 1 1472849152
+/
+crawl-66-249-64-110.googlebot.com
+0 3 2 10608 0 0
+-
+185.93.185.10
+0 3 3 6201 3 1473190983
+/
+185a49b14c190.greendata.pl
+0 3 0 1491 0 0
+-
+192-154-110-2.static.gorillaservers.com
+0 10 8 53479 1 1472720350
+/
+m945036d0.tmodns.net
+0 18 13 187918 1 1473234289
+/
+150-169-172-163.rev.cloud.scaleway.com
+0 1 1 2067 1 1473133375
+/
+spider-5-255-250-65.yandex.com
+0 9 5 12323 5 1473132224
+/
+87.97.84.86.pool.invitel.hu
+0 2 2 4134 1 1472822321
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 1 1 2067 1 1472864049
+/
+c-73-211-101-254.hsd1.il.comcast.net
+0 14 10 149555 1 1472702098
+/
+202.46.49.207
+0 1 1 21601 0 0
+-
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 374 0 0
+-
+216.ip-51-254-141.eu
+0 2 1 2564 1 1473199938
+/
+crawl-66-249-75-154.googlebot.com
+0 3 2 4631 2 1473110485
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 423 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 2 1 2564 1 1473115266
+/
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 1 423 0 0
+-
+202.46.53.140
+0 1 1 2067 1 1473242770
+/
+crawl-66-249-64-114.googlebot.com
+0 2 2 4134 2 1472811603
+/
+spider-5-255-250-24.yandex.com
+0 10 5 76770 4 1473132223
+/
+ec2-54-208-201-249.compute-1.amazonaws.com
+0 1 1 2067 1 1472833326
+/
+baiduspider-180-76-15-11.crawl.baidu.com
+0 1 1 374 0 0
+-
+baiduspider-180-76-15-15.crawl.baidu.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-22.crawl.baidu.com
+0 1 1 9688 0 0
+-
+45.57.230.178
+0 1 0 497 0 0
+-
+exit0.liskov.tor-relays.net
+0 1 0 497 0 0
+-
+61-216-2-13.hinet-ip.hinet.net
+0 2 0 452 2 1473227165
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 2 2 4548 0 0
+-
+104.236.107.199
+0 3 1 3061 1 1473169213
+/
+37.59.184.182
+0 1 1 2067 1 1473153384
+/
+185a25b151c159.greendata.pl
+0 6 0 2982 0 0
+-
+104.192.0.21
+0 1 1 2067 1 1473125238
+/
+45.63.10.144.vultr.com
+0 3 0 1491 1 1473075250
+-
+212-83-162-138.rev.poneytelecom.eu
+0 1 0 0 0 0
+-
+14.139.155.118
+0 6 3 7692 1 1472813346
+/
+msnbot-207-46-13-180.search.msn.com
+0 7 5 11329 5 1472986933
+/
+ip229.208-100-26.static.steadfastdns.net
+0 2 2 2067 1 1472911574
+/
+crawl-66-249-64-118.googlebot.com
+0 2 1 2564 1 1472768939
+/
+46.229.170.197
+0 1 1 2067 1 1473123212
+/
+c-73-9-108-121.hsd1.il.comcast.net
+0 18 13 187918 1 1473259434
+/
+202.46.50.123
+0 1 1 2274 0 0
+-
+78.e9.36a9.ip4.static.sl-reverse.com
+0 1 1 2067 1 1472722587
+/
+astra4239.startdedicated.de
+0 2 1 2564 1 1473163588
+/
+s19445780.onlinehome-server.info
+0 3 1 3061 1 1473203915
+-
+msnbot-40-77-167-57.search.msn.com
+0 3 3 6201 3 1472793097
+/
+crawl-66-249-69-19.googlebot.com
+0 3 1 3061 1 1473069463
+/
+baiduspider-180-76-15-136.crawl.baidu.com
+0 1 1 21601 0 0
+-
+spider-100-43-85-26.yandex.com
+0 1 0 497 0 0
+-
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 1 2067 1 1472890508
+/
+95.85.22.190
+0 2 1 2564 1 1473171600
+/
+server40003.teamviewer.com
+0 1 0 497 0 0
+-
+crawl-66-249-69-23.googlebot.com
+0 3 3 12178 1 1473110544
+/
+li1202-178.members.linode.com
+0 7 5 994 5 1473074519
+/
+150-70-173-58.trendmicro.com
+0 1 1 2067 1 1472916453
+/
+baiduspider-180-76-15-161.crawl.baidu.com
+0 2 2 4134 2 1473182298
+/
+li1210-169.members.linode.com
+0 4 3 497 3 1473237443
+/
+laubervilliers-656-1-115-4.w193-248.abo.wanadoo.fr
+0 1 1 2067 1 1472916371
+/
+crawl-66-249-75-166.googlebot.com
+0 2 1 2564 1 1473025744
+/
+mj4.naefmarco.ch
+0 2 1 2564 1 1473050293
+/
+msnbot-157-55-39-141.search.msn.com
+0 5 3 7195 3 1473130056
+/
+183.129.160.229
+0 4 2 5128 2 1472888564
+/
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 1 423 0 0
+-
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 21601 0 0
+-
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 0 497 0 0
+-
+123.59.59.52
+0 1 1 2067 1 1473252117
+/
+li1170-122.members.linode.com
+0 6 4 994 4 1473221790
+/
+91a196b50c33.greendata.pl
+0 7 0 3479 0 0
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 1 1 13991 0 0
+-
+baiduspider-180-76-15-7.crawl.baidu.com
+0 1 1 13991 0 0
+-
+nat-vlan550.las1.sco.cisco.com
+0 1 1 2067 1 1472931462
+/
+185a25b148c240.greendata.pl
+0 5 0 2485 0 0
+-
+crawl-66-249-69-27.googlebot.com
+0 4 3 6698 3 1473025250
+/
+researchscan415.eecs.umich.edu
+0 1 1 2067 1 1472881780
+/
+69.58.178.59
+0 4 2 5128 1 1473001333
+/
+213.128.81.66
+0 1 1 2067 1 1473103037
+/
+crawl-66-249-64-209.googlebot.com
+0 3 3 4764 1 1472769549
+/
+baiduspider-180-76-15-135.crawl.baidu.com
+0 2 2 748 0 0
+-
+baiduspider-180-76-15-139.crawl.baidu.com
+0 1 1 2067 1 1472731357
+/
+msnbot-157-55-39-92.search.msn.com
+0 1 1 2067 1 1473202069
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+172.56.12.185
+0 35 26 385056 1 1473241460
+/
+cablelink-189-218-69-70.hosts.intercable.net
+0 2 0 994 1 1473253383
+-
+107-175-239-205-host.colocrossing.com
+0 3 2 4631 1 1473209683
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 15861 1 1473241153
+/
+msnbot-207-46-13-167.search.msn.com
+0 1 1 2067 1 1473243217
+/
+202.46.57.199
+0 1 1 13991 0 0
+-
+c-24-7-34-188.hsd1.ca.comcast.net
+0 18 13 187918 1 1473219610
+/
+msnbot-157-55-39-27.search.msn.com
+0 2 1 2564 1 1473279891
+/
+202.46.48.95
+0 1 1 374 0 0
+-
+185a49b14c190.greendata.pl
+0 1 0 497 0 0
+-
+m945036d0.tmodns.net
+0 18 13 187918 1 1473234289
+/
+202.46.49.207
+0 1 1 21601 0 0
+-
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 1 423 0 0
+-
+baiduspider-180-76-15-159.crawl.baidu.com
+0 1 0 497 0 0
+-
+202.46.53.140
+0 1 1 2067 1 1473242770
+/
+45.57.230.178
+0 1 0 497 0 0
+-
+61-216-2-13.hinet-ip.hinet.net
+0 1 0 226 1 1473227165
+/
+185a25b151c159.greendata.pl
+0 1 0 497 0 0
+-
+c-73-9-108-121.hsd1.il.comcast.net
+0 18 13 187918 1 1473259434
+/
+202.46.50.123
+0 1 1 2274 0 0
+-
+li1210-169.members.linode.com
+0 2 1 497 1 1473237443
+/
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 1 423 0 0
+-
+123.59.59.52
+0 1 1 2067 1 1473252117
+/
+li1170-122.members.linode.com
+0 3 2 497 2 1473221790
+/
+91a196b50c33.greendata.pl
+0 2 0 994 0 0
+-
+185a25b148c240.greendata.pl
+0 1 0 497 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://microngenesis.com/
+1 27
+- (Direct Request)
+0 226
+http://microngenesis.com/css/style.css
+1 16
+http://uptime.com/microngenesis.com
+1 14
+http://uptime.com/www.microngenesis.com
+1 6
+http://www.microngenesis.com/
+1 57
+http://www.microngenesis.com/css/style.css
+1 41
+http://alphaviridis.com/
+0 2
+http://google.com
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 12
+Python-urllib/2.6
+0 3
+Mozilla/5.0 (compatible; seoscanners.net/1; +spider@seoscanners.net)
+0 2
+curl/7.35.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 67
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 21
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 1
+Safari/16.7 (Windows 3.1 5.4; en_CA;)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 21
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-327.18.2.el7.x86_64
+0 1
+Scanbot
+0 3
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 20
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 2
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.642.0 Chrome/10.0
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 17
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 46
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+0 1
+Mozilla/5.0 zgrab/0.x
+0 6
+Mozilla/5.0 (compatible; spbot/5.0.2; +http://OpenLinkProfiler.org/bot )
+0 3
+Wget(linux)
+0 6
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 13
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 1
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-327.28.2.el7.x86_64
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (compatible; Nmap Scripting Engine; http://nmap.org/book/nse.html)
+0 1
+Mobile/8.2 (Windows 95 7.3; ar_SA;)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 5
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0
+0 21
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Who.is Bot
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 3
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 2
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0b11pre) Gecko/20110129 Firefox/4.0b11pre
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Telesphoreo
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
